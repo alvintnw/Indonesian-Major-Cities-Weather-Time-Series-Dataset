@@ -1,4 +1,4 @@
-# Indonesian-Major-Cities-Weather-Time-Series-Dataset
+# Indonesian Major Cities Weather Time Series Dataset
 
 * **City Coordinates Dictionary:** Defines a list of major Indonesian cities along with their specific latitude and longitude coordinates.
 * **Dynamic Date Range:** Utilizes the `datetime` module to automatically calculate and set a historical time window covering the past 7 days up to yesterday.
